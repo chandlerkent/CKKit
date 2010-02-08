@@ -1,4 +1,4 @@
-@import <CKJSONKeyedArchiving/CKJSONKeyedUnarchiver.j>
+@import "../CKJSONKeyedUnarchiver.j"
 
 @implementation CKJSONKeyedUnarchiverTest : OJTestCase
 
