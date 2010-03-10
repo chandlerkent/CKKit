@@ -71,7 +71,7 @@ var CKJSONKeyedUnarchiverClassKey = @"$$CLASS$$";
     {
         if (key !== CKJSONKeyedUnarchiverClassKey)
         {
-            [decodedDictionary setObject:encodedJSON[key] forKey:key];
+            [decodedDictionary setObject:[self _decodeObject:encodedObject[key]] forKey:key];
         }
     }
 
