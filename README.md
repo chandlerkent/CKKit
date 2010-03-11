@@ -4,6 +4,11 @@ CKKit is a collection of code that I have created for other various projects tha
 
 TODO
 
+## Contributors
+
+Chandler Kent (http://github.com/chandlerkent)
+samsonjs (http://github.com/samsonjs)
+
 ## License
 
 All code is under the MIT license.
