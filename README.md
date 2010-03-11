@@ -6,8 +6,8 @@ TODO
 
 ## Contributors
 
-* [Chandler Kent][http://github.com/chandlerkent]
-* [samsonjs][http://github.com/samsonjs]
+* [Chandler Kent](http://github.com/chandlerkent)
+* [samsonjs](http://github.com/samsonjs)
 
 ## License
 
